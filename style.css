@@ -37,7 +37,7 @@ h1{
 }
 
 h2{
- color: #7FCE90;
+ color: #49afa6;
 }
 
 .description{
@@ -53,6 +53,7 @@ img{
   width: 100px;
   height: 100px;
   border-radius: 50%;
+  box-shadow: 1px 3px 3px 0px rgba(0,0,0,0.8);
 }
 
 .card-white{
@@ -90,7 +91,7 @@ img{
 }
 
 .btn{
-  background-color: #6B72E1;
+  background-color: #e6537c;
   font-family: 'Roboto';
   color: white;
   padding: 15px 20px;
@@ -100,5 +101,9 @@ img{
 .btn:hover{
   font-family: 'Roboto';
   color: white;
-  background-color: black;
+  background-color: #c5355d;
+}
+
+a{
+  text-decoration: none;
 }
